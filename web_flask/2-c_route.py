@@ -1,4 +1,4 @@
-#!/home/shadowwwbls/AirBnB_clone_v2/web_flask/env/bin/python
+#!/usr/bin/python3
 """
 start Flask application
 """
